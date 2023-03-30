@@ -1,0 +1,15 @@
+total 52
+drwx------ 4 root root 4096 Feb 18 00:06 snap
+drwxr-xr-x 3 root root 4096 Feb 19 19:53 ansibmod
+drwxr-xr-x 4 root root 4096 Feb 25 12:11 ansible_modiles
+-rwxrwxrwx 1 root root  355 Feb 25 18:20 1.yml
+drwxrwxrwx 2 root root 4096 Feb 25 19:16 ansible
+drwxr-xr-x 2 root root 4096 Feb 26 11:38 docker
+-rw-r--r-- 2 root root  236 Mar 17 10:28 link2
+-rw-r--r-- 2 root root  236 Mar 17 10:28 2.yml
+lrwxrwxrwx 1 root root    5 Mar 18 13:27 link1 -> 2.yml
+-rw-r--rwx 1 root root   20 Mar 26 12:23 3.txt
+drwxr-xr-x 6 root root 4096 Mar 27 01:23 projectday21
+drwxr-xr-x 5 root root 4096 Mar 29 14:09 shell1
+drwxr-xr-x 2 root root 4096 Mar 29 14:25 shell2
+drwxr-xr-x 3 root root 4096 Mar 30 00:23 gihub1
